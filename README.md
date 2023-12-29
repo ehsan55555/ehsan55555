@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehsan55555&label=Profile%20views&color=0e75b6&style=flat" alt="ehsan55555" /> </p>
 
 <ul style="list-style: none; padding: 0; text-align: center;">
-  <li><h3>🌱 I'm continuously advancing in databases & analyst skills etc.</h3></li>
+  <li><h3>🌱Actively perfecting my data analytics skills to deliver actionable insights and drive informed decision-making, contributing effectively to the team's success.</h3></li>
   <li><h3>📫 How to reach me EhsanArefadib@gmail.com</h3></li>
 </ul>
 
